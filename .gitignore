@@ -1,15 +1,6 @@
-# Python
 .venv/
+node_modules/
+backend/uploads/
 __pycache__/
 *.pyc
-
-# Node / React
-node_modules/
-npm-debug.log*
-
-# Uploaded media
-backend/uploads/
-
-# System / Cache
-*.pack
 .DS_Store
