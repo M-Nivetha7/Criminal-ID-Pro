@@ -10,10 +10,6 @@ You'll need two terminal windows:
 
 ### 1. Setup & Run Backend
 
-```bash
-# Go to project root
-cd "/Users/nivetham/Documents/face identification in video"
-
 # Create Python virtual environment (run once)
 python3 -m venv .venv
 
@@ -36,10 +32,6 @@ The backend should show:
 ### 2. Run Frontend
 
 In a new terminal:
-
-```bash
-# Go to project root
-cd "/Users/nivetham/Documents/face identification in video"
 
 # Install Node dependencies (run once)
 npm install
