@@ -1,1 +1,12 @@
-node_modules
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Node modules
+node_modules/
+
+# Ignore uploaded media files
+backend/uploads/
+
+# Ignore cache files
+*.pack
+
