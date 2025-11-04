@@ -1,12 +1,15 @@
-# Ignore Python virtual environment
+# Python
 .venv/
+__pycache__/
+*.pyc
 
-# Ignore Node modules
+# Node / React
 node_modules/
+npm-debug.log*
 
-# Ignore uploaded media files
+# Uploaded media
 backend/uploads/
 
-# Ignore cache files
+# System / Cache
 *.pack
-
+.DS_Store
