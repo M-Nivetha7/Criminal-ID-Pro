@@ -1,4 +1,4 @@
-# Face Recognition in Video
+# CRIMINAL ID PRO
 
 Real-time face detection and recognition system using OpenCV and deep learning. Upload a reference image and analyze videos to find matching faces with timestamps.
 
